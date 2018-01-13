@@ -1,3 +1,8 @@
+---
+layout: post
+title: Zitieren
+---
+
 # Zitieren, Tabellen und Abbildungen
 
 **Gestaltungsrichtlinie (Styleguide)**
