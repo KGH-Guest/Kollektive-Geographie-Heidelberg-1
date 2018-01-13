@@ -1,3 +1,7 @@
+---
+title: Layout
+---
+
 # Layout
 
 Das Layout sollte vor allem einheitlich und ansprechend sein! 
